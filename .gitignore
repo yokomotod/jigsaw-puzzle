@@ -1,0 +1,11 @@
+# cmake
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# data dir
+data/
+
+# binary
+puzzle
